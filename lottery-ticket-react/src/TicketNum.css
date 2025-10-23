@@ -1,0 +1,19 @@
+.TicketNum{
+    font-size: 5rem;
+    width: 500px;
+    margin: auto;
+    color: #ffeded;
+    width: 500px;
+      background: rgba(0, 0, 0, 0.1); 
+      border-radius: 14px;
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border: 1px solid rgba(83, 8, 8, 0.3);
+      box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.2);
+      color: rgb(34, 21, 21);
+      /* display: flex; */
+      justify-content: center;
+      align-items: center;
+      /* font-size: 1.2rem; */
+      text-align: center;
+}
